@@ -1,3 +1,3 @@
 # ffs
 
-ffs, foldr sucks...
+ffs foldr sucks
